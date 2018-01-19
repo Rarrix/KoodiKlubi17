@@ -2617,7 +2617,11 @@ Prefab:
     - target: {fileID: 114363074902225188, guid: a9d4a60d23e1a4340b9d1a795f1a429f,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 0
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889593415700556, guid: a9d4a60d23e1a4340b9d1a795f1a429f, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a9d4a60d23e1a4340b9d1a795f1a429f, type: 2}

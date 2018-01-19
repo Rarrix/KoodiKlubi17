@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 9567f0d8cd1fc72419bde05242d57fe3
+    path: Assets/Scenes/Intro.unity
+    guid: 0d8ba073a362fb44fbc9d2d005955535
   - enabled: 1
     path: Assets/Scenes/Mappiselect.unity
     guid: 37eb3ec47e5190344b083dcc24111e0a
@@ -29,3 +29,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VoittoScreeni.unity
     guid: 3032f70ffb8bd7d4f84cd4883be4516e
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9567f0d8cd1fc72419bde05242d57fe3
