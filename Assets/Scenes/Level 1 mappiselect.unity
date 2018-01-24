@@ -1565,7 +1565,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.78
-  m_Text: sample text
+  m_Text: sahara
 --- !u!222 &746554566
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2781,7 +2781,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.78
-  m_Text: sample text
+  m_Text: sahara
 --- !u!222 &1367428704
 CanvasRenderer:
   m_ObjectHideFlags: 0
