@@ -1237,7 +1237,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 6
+  m_Text: 4
 --- !u!222 &56811751
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11381,7 +11381,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 4
+  m_Text: 6
 --- !u!222 &555936059
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24023,7 +24023,7 @@ GameObject:
   - component: {fileID: 1129270717}
   - component: {fileID: 1129270716}
   m_Layer: 5
-  m_Name: 4
+  m_Name: 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28019,7 +28019,7 @@ GameObject:
   - component: {fileID: 1336617983}
   - component: {fileID: 1336617982}
   m_Layer: 5
-  m_Name: 6
+  m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
