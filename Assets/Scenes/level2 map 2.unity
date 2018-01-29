@@ -1166,6 +1166,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8a26e526146b4d489d04c5187854e5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DeathSoundSource: {fileID: 0}
+  DeathSound: {fileID: 0}
+  Camera: {fileID: 0}
+  Death: {fileID: 0}
+  Animator: {fileID: 0}
 --- !u!1001 &220246099
 Prefab:
   m_ObjectHideFlags: 0
@@ -4858,6 +4863,23 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0a078fec816990e4891c2dbaf5c9dcd8, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1359154507 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1306745989915272, guid: 0a078fec816990e4891c2dbaf5c9dcd8,
+    type: 2}
+  m_PrefabInternal: {fileID: 1359154506}
+--- !u!114 &1359154508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1359154507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: ca933a0ce9aebe54a9a9fe4fbdfb1cfe, type: 2}
 --- !u!1 &1368665627
 GameObject:
   m_ObjectHideFlags: 0
