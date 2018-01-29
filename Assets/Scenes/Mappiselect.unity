@@ -30703,9 +30703,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: mappikamera 0
+          m_StringArgument: Mappikamera load texa
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 931598258}
         m_MethodName: Play
         m_Mode: 5
@@ -30717,7 +30717,7 @@ MonoBehaviour:
           m_StringArgument: Mappiselect canvas piiloon
           m_BoolArgument: 0
         m_CallState: 0
-      - m_Target: {fileID: 926257806}
+      - m_Target: {fileID: 933059906}
         m_MethodName: Play
         m_Mode: 5
         m_Arguments:
@@ -30725,9 +30725,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Select jung
+          m_StringArgument: Select texa
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 835516384}
         m_MethodName: set_enabled
         m_Mode: 6
@@ -30749,7 +30749,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 0
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &931598261
@@ -35523,9 +35523,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: mappikamera 0
+          m_StringArgument: Mappikamera load jung
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 1129270716}
         m_MethodName: Play
         m_Mode: 5
@@ -35537,7 +35537,7 @@ MonoBehaviour:
           m_StringArgument: Mappiselect canvas piiloon
           m_BoolArgument: 0
         m_CallState: 0
-      - m_Target: {fileID: 933059906}
+      - m_Target: {fileID: 926257806}
         m_MethodName: Play
         m_Mode: 5
         m_Arguments:
@@ -35545,9 +35545,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Select texa
+          m_StringArgument: Select jung
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 835516384}
         m_MethodName: set_enabled
         m_Mode: 6
@@ -35569,7 +35569,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 0
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1129270719
@@ -44023,6 +44023,26 @@ Prefab:
         type: 2}
       propertyPath: ShapeModule.radiusThickness
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198373287304201926, guid: 597cf325782459c4998712f27553edb0,
+        type: 2}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 198373287304201926, guid: 597cf325782459c4998712f27553edb0,
+        type: 2}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 198373287304201926, guid: 597cf325782459c4998712f27553edb0,
+        type: 2}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 198373287304201926, guid: 597cf325782459c4998712f27553edb0,
+        type: 2}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
       objectReference: {fileID: 0}
     - target: {fileID: 198373287304201926, guid: 597cf325782459c4998712f27553edb0,
         type: 2}
